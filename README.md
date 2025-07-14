@@ -27,7 +27,7 @@ I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkel
 
 ## 📚 Background
 
-- **Sr. PMT @ AWS** — Own internal, global internal tools exclusively used by the flagship $10B+ Migration Acceleration Program  
+- **Sr. PMT @ AWS** — Own internal CRM application exclusively used to support the flagship $10B+ AWS Migration Acceleration Program
 - **MIDS @ UC Berkeley** (Expected Graduation: Aug 2027) — Data Science, Causal Inference, GenAI, ML  
 - **MBA @ UChicago Booth** — Economics, Entrepreneurship, Finance, Strategy 
 - **BA @ UC Berkeley**
