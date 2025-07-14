@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Praj Prabhu
 
-I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkeley BA. Currently earning my master's in data science at UC Berkeley to lead the development of next-gen AI and data products that connect people at scale.
+Sr. Product Manager – Technical at AWS with a Booth MBA, UC Berkeley BA. Currently earning my master's in data science at UC Berkeley to lead the development of next-gen AI and data products that connect people at scale.
 
 ## 🔭 Currently Working On
 - Deepening my machine learning and Python skills via Berkeley MIDS
@@ -25,3 +25,6 @@ AI product strategy • Internal platforms • Data science • Scalable infrast
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/prajprabhu)
 - [GitHub](https://github.com/pprabhu90)
+
+![GitHub followers](https://img.shields.io/github/followers/pprabhu90?label=Follow&style=social)
+![GitHub views](https://komarev.com/ghpvc/?username=pprabhu90&color=blue)
