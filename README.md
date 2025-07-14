@@ -14,14 +14,14 @@ I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkel
 
 ## 🛠 Featured Projects
 
-- 👽 [Extra-Terrestrial Civilization Estimator](https://github.com/pprabhu90/etc-estimator)  
-  A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
-
 - 🧠 [Scrabble Word Scoring Engine](https://github.com/pprabhu90/scrabble-score-engine)  
   A logic-based Python script that calculates the highest scoring Scrabble word from a given letter set.
 
 - 📊 [Campaign Contribution Analysis](https://github.com/pprabhu90/fec-campaign-analysis)  
   A data exploration of 2016 U.S. FEC donations using pandas and matplotlib.
+
+- 👽 [Extra-Terrestrial Civilization Estimator](https://github.com/pprabhu90/etc-estimator)  
+  A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
 
 ---
 
