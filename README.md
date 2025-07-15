@@ -15,13 +15,13 @@ I'm a Senior Product Manager – Technical at AWS with a UChicago Booth MBA and 
 ## 🛠 Featured Projects (UC Berkeley MIDS)
 
 - 🧠 [Scrabble Word Scoring Engine](https://github.com/pprabhu90/scrabble-score-engine)  
-  MIDS Python programming project – A logic-based Python script that calculates the highest-scoring Scrabble word from a given letter set.
+  MIDS Python programming project – A Python script that calculates the highest-scoring Scrabble word from a given letter set.
 
 - 📊 [Campaign Contribution Analysis](https://github.com/pprabhu90/fec-campaign-analysis)  
   MIDS data science project – A data exploration of 2016 U.S. FEC donations using pandas and matplotlib.
 
 - 👽 [Extra-Terrestrial Civilization Estimator](https://github.com/pprabhu90/etc-estimator)  
-  MIDS scientific computing project – A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
+  MIDS Python programming project – A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
 
 ---
 
