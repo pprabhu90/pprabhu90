@@ -7,7 +7,7 @@ I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkel
 ---
 
 ## ✨ Currently Working On  
-- Deepening my machine learning and Python skills via Berkeley MIDS  
+- Deepening my GenAI, machine learning, and Python programming skills via Berkeley MIDS  
 - Exploring GenAI product frameworks and LLM evaluation tools via Berkeley MIDS  
 
 ---
