@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Praj Prabhu  
+# 👋 Hi, I'm Praj Prabhu  
 ![GitHub followers](https://img.shields.io/github/followers/pprabhu90?label=Follow&style=social)  
 ![GitHub views](https://komarev.com/ghpvc/?username=pprabhu90&color=blue)
 
-I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkeley BA. I'm currently earning my master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and data platforms — all in service of building the next generation of AI-native products.
+I'm a Senior Product Manager – Technical at AWS with a UChicago Booth MBA and UC Berkeley BA. I'm currently earning my master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and data platforms — all in service of building the next generation of AI-native products.
 
 ---
 
@@ -28,8 +28,8 @@ I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkel
 ## 📚 Background
 
 - **Sr. PMT @ AWS** — Own internal CRM application exclusively used to support the flagship $10B+ AWS Migration Acceleration Program  
-- **MIDS @ UC Berkeley** (Expected Graduation: Aug 2027) — Data Science, Causal Inference, GenAI, ML  
-- **MBA @ UChicago Booth** — Economics, Entrepreneurship, Finance, Strategy  
+- **MIDS @ UC Berkeley** (Expected Graduation: Aug 2027) — Data Science, Data Visualization, Causal Inference, GenAI, ML, Python 
+- **MBA @ UChicago Booth** — Entrepreneurship, Strategy, Finance, Economics, Behavior Science
 - **BA @ UC Berkeley**
 
 ---
@@ -39,6 +39,6 @@ AI product strategy • Data science • Scalable infrastructure
 
 ---
 
-## 🔗 Let’s Connect  
+## 🔗 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/prajprabhu)  
 - [GitHub](https://github.com/pprabhu90)
