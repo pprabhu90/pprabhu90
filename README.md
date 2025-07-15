@@ -12,24 +12,24 @@ I'm a Senior Product Manager – Technical at AWS with a Booth MBA and UC Berkel
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Featured Projects (UC Berkeley MIDS)
 
 - 🧠 [Scrabble Word Scoring Engine](https://github.com/pprabhu90/scrabble-score-engine)  
-  A logic-based Python script that calculates the highest-scoring Scrabble word from a given letter set.
+  MIDS Python programming project – A logic-based Python script that calculates the highest-scoring Scrabble word from a given letter set.
 
 - 📊 [Campaign Contribution Analysis](https://github.com/pprabhu90/fec-campaign-analysis)  
-  A data exploration of 2016 U.S. FEC donations using pandas and matplotlib.
+  MIDS data science project – A data exploration of 2016 U.S. FEC donations using pandas and matplotlib.
 
 - 👽 [Extra-Terrestrial Civilization Estimator](https://github.com/pprabhu90/etc-estimator)  
-  A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
+  MIDS scientific computing project – A Python model using the Drake Equation to estimate intelligent civilizations in the Milky Way. Combines probability theory, parameter sensitivity, and scientific reasoning to explore the Fermi Paradox.
 
 ---
 
 ## 📚 Background
 
-- **Sr. PMT @ AWS** — Own internal CRM application exclusively used to support the flagship $10B+ AWS Migration Acceleration Program
+- **Sr. PMT @ AWS** — Own internal CRM application exclusively used to support the flagship $10B+ AWS Migration Acceleration Program  
 - **MIDS @ UC Berkeley** (Expected Graduation: Aug 2027) — Data Science, Causal Inference, GenAI, ML  
-- **MBA @ UChicago Booth** — Economics, Entrepreneurship, Finance, Strategy 
+- **MBA @ UChicago Booth** — Economics, Entrepreneurship, Finance, Strategy  
 - **BA @ UC Berkeley**
 
 ---
