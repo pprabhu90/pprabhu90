@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/pprabhu90?label=Follow&style=social)  
 ![GitHub views](https://komarev.com/ghpvc/?username=pprabhu90&color=blue)
 
-I'm a Senior Product Manager – Technical at AWS with a UChicago Booth MBA and UC Berkeley BA. I build global internal tools that streamline large-scale cloud migrations, impacting $10B+ in revenue. I'm currently pursuing my master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and programming — all in service of building the next generation of AI-native products.
+I'm a Senior Product Manager – Technical at AWS with a UChicago Booth MBA and UC Berkeley BA. I build global internal tools that streamline large-scale cloud migrations, impacting $10B+ in revenue. I'm currently pursuing a master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and programming — all in service of building the next generation of AI-native products.
 
 ---
 
