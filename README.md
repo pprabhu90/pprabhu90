@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Praj Prabhu  
 ![GitHub views](https://komarev.com/ghpvc/?username=pprabhu90&color=blue)
 
-I'm a Senior Product Manager – Technical at AWS with a UC Berkeley BA and UChicago Booth MBA. I lead the development of global internal tools that streamline large-scale cloud migrations, impacting $10B+ in revenue. I'm currently pursuing a master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and programming — all in service of building the next generation of AI-native products.
+I'm a Senior Product Manager – Technical at AWS with a UC Berkeley BA and UChicago Booth MBA. I lead the development of global internal tools that track and streamline large-scale cloud migrations, impacting $10B+ in revenue. I'm currently pursuing a master's in data science at UC Berkeley to deepen my expertise in GenAI, machine learning, and programming — all in service of building the next generation of AI-native products.
 
 ---
 
